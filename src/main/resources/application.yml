@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: supermall
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/supermall?characterEncoding=utf8&useSSL=false
